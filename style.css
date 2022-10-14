@@ -1,0 +1,21 @@
+*{
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+.maxWidth720{
+    max-width: 720px;
+    margin: 2px auto;
+}
+.strike{
+    text-decoration: line-through;
+}
+
+.navigation{
+    background-color: rgb(191 219 254 / var(--tw-bg-opacity))
+}
+
+.show{
+    display: block !important;
+}
