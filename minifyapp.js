@@ -44,12 +44,12 @@ function callThisPage(e) {
 
 function doctor() {
     [
-        ["Dr. BABHULKAR JOBAN", "/dr/dr1.jpg", "MBBS D.M.R.D, D.N.B. (Radio-Diagnosis)", "Speciality: Shoulder and Injuries", "Gender: Female"],
-        ["Dr. SINHA AVIJAN", "/dr/dr2.jpg", "B.P.Th. M. P. Th.", "Speciality: Ophthalmologist (Eye specialist)", "Gender: Male"],
-        ["Dr. ATHAVALE SMITA R.", "/dr/dr5.jpg", "BDS MDS(PROSTHODONTIST)", "Speciality: Dentistry", "Gender: Female"],
-        ["Dr. SURYAVANSHI MIHIR", "/dr/dr3.jpg", "MBBS MS, DNB, FCPS, DORL", "Speciality: Ear,Nose and Throat (ENT)", "Gender: Male"],
-        ["Dr. MEENU AGARWAL", "/dr/dr6.jpeg", "DNB, DGO, MBBS", "Speciality: Gynaecologist and Obstetrician", "Gender: Female"],
-        ["Dr. BHOWMICK NILANJAN", "/dr/dr4.jpg", "MBBS MS(ENT)", "Speciality: ENT, Vertigo and Balance Clinic", "Gender: Male"]
+        ["Dr. BABHULKAR JOBAN", "./dr/dr1.jpg", "MBBS D.M.R.D, D.N.B. (Radio-Diagnosis)", "Speciality: Shoulder and Injuries", "Gender: Female"],
+        ["Dr. SINHA AVIJAN", "./dr/dr2.jpg", "B.P.Th. M. P. Th.", "Speciality: Ophthalmologist (Eye specialist)", "Gender: Male"],
+        ["Dr. ATHAVALE SMITA R.", "./dr/dr5.jpg", "BDS MDS(PROSTHODONTIST)", "Speciality: Dentistry", "Gender: Female"],
+        ["Dr. SURYAVANSHI MIHIR", "./dr/dr3.jpg", "MBBS MS, DNB, FCPS, DORL", "Speciality: Ear,Nose and Throat (ENT)", "Gender: Male"],
+        ["Dr. MEENU AGARWAL", "./dr/dr6.jpeg", "DNB, DGO, MBBS", "Speciality: Gynaecologist and Obstetrician", "Gender: Female"],
+        ["Dr. BHOWMICK NILANJAN", "./dr/dr4.jpg", "MBBS MS(ENT)", "Speciality: ENT, Vertigo and Balance Clinic", "Gender: Male"]
     ].forEach(e => {
         let t = '<li class="border-0 rounded-lg bg-slate-800 flex items-center mb-2 p-2 relative shadow-xl text-inherit"><div class=" duration-200 ease-soft-in-out inline-flex mr-2 rounded-xl text-size-base text-white transition-all w-1/3"><img alt=kal style="height:100%; max-width:200px;object-fit: cover;" class="rounded-xl mr-2 shadow-soft-2xl w-full" src=' + e[1] + '></div><div class="flex flex-col items-start pl-2 justify-center"><h2 class="mb-0 leading-normal py-1 text-lg text-white">' + e[0] + '</h2><p class="text-gray-300 text-sm">' + e[2] + '<p class="text-gray-300 text-sm">' + e[3] + '<p class="text-gray-300 text-sm">' + e[4] + '</p><a class="border-0 rounded-2xl align-middle bg-green-400 inline-block mt-2 px-10 mb-0 py-1 text-center text-white uppercase" href="tel:+919876543210">Call</a></div>',
             r = document.querySelector("#doctorList").innerHTML;
