@@ -20,11 +20,12 @@ Get recommendations of yoga, exercise and spiritual videos.<br />
 - The daily progress tracker will increase in percentage as each to-do task in the list is completed.
 ---
 ## Browse
+
+Browse include 
+- WHO Health care suggestion and Read More button to visit WHO site for more information.<br />
 ![Screenshot_2022-10-15-22-14-23-03_40deb401b9ffe8e1df2f1cc5ba480b12_30](https://user-images.githubusercontent.com/70063001/196004272-4f75a094-d26e-472c-bb91-cdb52b9f9687.jpg)
 ![Screenshot_2022-10-15-23-03-24-93_40deb401b9ffe8e1df2f1cc5ba480b12_30](https://user-images.githubusercontent.com/70063001/196004876-d8775949-9182-46a5-94a7-b1826f3e9682.jpg)
 <br />
-Browse include 
-- WHO Health care suggestion and Read More button to visit WHO site for more information.
 - Food recommendations for healthy life, categorized 
     - For General person 
     - For Diabeties person
