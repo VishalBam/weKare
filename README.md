@@ -10,7 +10,7 @@ Key features
 4) Personalized food recommendations.
 5) Faculty to get connected to doctor quickly.
 6) Displays your genuine reports provided by verified pathologist of your city.<br><br>
-**The webapp include following pages:-**
+The webapp include following pages:-
 - Home
 - Browse
 - Doctor
