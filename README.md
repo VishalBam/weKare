@@ -22,14 +22,19 @@ Get recommendations of yoga, exercise and spiritual videos.<br />
 ## Browse
 
 Browse include 
-- WHO Health care suggestion and Read More button to visit WHO site for more information.<br />
-![Screenshot_2022-10-15-22-14-23-03_40deb401b9ffe8e1df2f1cc5ba480b12_30](https://user-images.githubusercontent.com/70063001/196004272-4f75a094-d26e-472c-bb91-cdb52b9f9687.jpg)
-![Screenshot_2022-10-15-23-03-24-93_40deb401b9ffe8e1df2f1cc5ba480b12_30](https://user-images.githubusercontent.com/70063001/196004876-d8775949-9182-46a5-94a7-b1826f3e9682.jpg)
-<br />
-- Food recommendations for healthy life, categorized 
+- WHO Health care suggestion and Read More button to visit WHO site for more information.<br>
+![Screenshot_2022-10-15-22-14-23-03_40deb401b9ffe8e1df2f1cc5ba480b12_30](https://user-images.githubusercontent.com/70063001/196004272-4f75a094-d26e-472c-bb91-cdb52b9f9687.jpg)<br>
+- Food is categorized has 
     - For General person 
     - For Diabeties person
-    - For Blood pressure person
+    - For Blood pressure person<br>
+![Screenshot_2022-10-15-23-03-24-93_40deb401b9ffe8e1df2f1cc5ba480b12_30](https://user-images.githubusercontent.com/70063001/196004876-d8775949-9182-46a5-94a7-b1826f3e9682.jpg)
 ---
 ## Doctor
+- In doctor page you will see doctor for any emergency near your location <br>
+![Screenshot_2022-10-15-23-03-56-51_40deb401b9ffe8e1df2f1cc5ba480b12_30](https://user-images.githubusercontent.com/70063001/196005399-1b7beb16-24c0-428d-b99a-530a7720a9a6.jpg)<br>
+- you can call the doctor and book an appointment instant.
+
+
+
 
