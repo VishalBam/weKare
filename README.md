@@ -33,8 +33,15 @@ Browse include
 ## Doctor
 - In doctor page you will see doctor for any emergency near your location <br>
 ![Screenshot_2022-10-15-23-03-56-51_40deb401b9ffe8e1df2f1cc5ba480b12_30](https://user-images.githubusercontent.com/70063001/196005399-1b7beb16-24c0-428d-b99a-530a7720a9a6.jpg)<br>
-- you can call the doctor and book an appointment instant.
-
-
-
-
+- you can call the doctor and book an appointment instantly.
+---
+## Profile
+The last section is the profile section.<br>
+![Screenshot_2022-10-15-23-04-26-65_40deb401b9ffe8e1df2f1cc5ba480b12_30](https://user-images.githubusercontent.com/70063001/196005503-e12336ba-a191-4536-8573-324a531f2f25.jpg)<br>
+- Profile section consists of personal information of user followed by user profile photograph.
+- In the report section user can view his/her general report.<br>
+![Screenshot_2022-10-15-23-04-29-36_40deb401b9ffe8e1df2f1cc5ba480b12_30](https://user-images.githubusercontent.com/70063001/196005599-139a3efe-885c-4f87-8f72-9b25563965cf.jpg)<br>
+- This report is added and verified by pathologist on user account.
+To avoid any manipulation this report is to be uploaded by pathologist and user can not edit, change or delete this report data.
+- At the bottom of the page there is a BMI calculator which offers user to check there BMI so that user can adjust there diet and exercises according.
+As weight and height can be measured easily, so the value of height and weight can be change by user.
