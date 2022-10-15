@@ -9,7 +9,7 @@ Key features
 3) Provides health related information from authentic source.
 4) Personalized food recommendations.
 5) Faculty to get connected to doctor quickly.
-6) Saves your genuine reports from verified pathologist.<br><br>
+6) Displays your genuine reports provided by verified pathologist of your city.<br><br>
 **The webapp include following pages:-**
 - Home
 - Browse
