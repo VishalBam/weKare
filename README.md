@@ -1,6 +1,6 @@
 # weKare
 This Project  is for Kratin LLC Company. This is round-1 assignment.
-This weKare webapp is developed to give sunita sharma a healthy life
+This weKare webapp has been developed to give a healthy life to Sunita Sharma.
 The webapp include following pages:- 
 1 Home
 2 Browse
