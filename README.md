@@ -14,9 +14,12 @@ This weKare webapp has been developed to give a healthy life to Sunita Sharma. <
 Home page has
 - Daily Progress Tracker.
 - To-do List with different task and their times.
-- Yoga and Exercise youtube videos.<br />
+- Yoga and Exercise youtube videos.
+Get recommendations of yoga, exercise and spiritual videos.<br />
 ![Screenshot_2022-10-15-22-13-56-41_40deb401b9ffe8e1df2f1cc5ba480b12_30](https://user-images.githubusercontent.com/70063001/196004379-fb52ebc7-27b1-498f-ac00-835896a76659.jpg)
-- The daily progress tracker will increase in percentage as each to-do list is completed.
+- The daily progress tracker will increase in percentage as each to-do task in the list is completed.
 ---
 ## Browse
 ![Screenshot_2022-10-15-22-14-23-03_40deb401b9ffe8e1df2f1cc5ba480b12_30](https://user-images.githubusercontent.com/70063001/196004272-4f75a094-d26e-472c-bb91-cdb52b9f9687.jpg)
+Browse incluse 
+- WHO Health care suggestion and Read More button to visit 
