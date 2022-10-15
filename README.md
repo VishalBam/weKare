@@ -8,5 +8,5 @@ This weKare webapp has been developed to give a healthy life to Sunita Sharma. <
 - Doctor
 - Profile
 ## Home 
-<link rel="icon" href="./screenshot/Screenshot_2022-10-15-22-13-38-29_40deb401b9ffe8e1df2f1cc5ba480b12.jpg" sizes="32*32">
-<!-- ![](https://vishalbam.github.io/weKare/screenshot/Screenshot_2022-10-15-22-13-38-29_40deb401b9ffe8e1df2f1cc5ba480b12.jpg) -->
+
+![](https://www.simpleimageresizer.com/_uploads/photos/26caf560/Screenshot_2022-10-15-22-13-38-29_40deb401b9ffe8e1df2f1cc5ba480b12_50.jpg)
