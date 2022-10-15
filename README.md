@@ -20,6 +20,6 @@ Get recommendations of yoga, exercise and spiritual videos.<br />
 - The daily progress tracker will increase in percentage as each to-do task in the list is completed.
 ---
 ## Browse
-![Screenshot_2022-10-15-22-14-23-03_40deb401b9ffe8e1df2f1cc5ba480b12_30](https://user-images.githubusercontent.com/70063001/196004272-4f75a094-d26e-472c-bb91-cdb52b9f9687.jpg)
+![Screenshot_2022-10-15-22-14-23-03_40deb401b9ffe8e1df2f1cc5ba480b12_30](https://user-images.githubusercontent.com/70063001/196004272-4f75a094-d26e-472c-bb91-cdb52b9f9687.jpg)<br />
 Browse incluse 
 - WHO Health care suggestion and Read More button to visit WHO site for more information.
