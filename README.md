@@ -2,7 +2,7 @@
 ### This Project  is for Kratin LLC Company. 
 #### This is round-1 assignment.
 This weKare webapp has been developed to give a healthy life to Sunita Sharma. <br />
-Working weKare webapp link:  
+## Working weKare webapp link:  https://vishalbam.github.io/weKare/
 **The webapp include following pages:-**
 - Home
 - Browse
@@ -15,5 +15,5 @@ Home page has
 - Daily Progress Tracker.
 - To-do List with different task and their times.
 - Yoga and Exercise youtube videos.
-<hr>
+---
 ## Browse
