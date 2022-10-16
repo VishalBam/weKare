@@ -3,6 +3,7 @@
 #### This is round-1 assignment.
 This weKare webapp has been developed to give a healthy life to Sunita Sharma. <br />
 ## Working webapp link:  https://vishalbam.github.io/weKare/
+(<em> for best experience visit this webapp on your smartphones</em>)<br><br>
 Key features
 1) Daily task-list and task tracker.
 2) Videos of yoga, exercises and spiritual knowledge.
