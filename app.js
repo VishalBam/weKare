@@ -85,12 +85,12 @@ function callThisPage(x) {
 
 function doctor() {
     let listOfDoctor = [
-        ["Dr. BABHULKAR JOBAN", "/dr/dr1.jpg", "MBBS D.M.R.D, D.N.B. (Radio-Diagnosis)", "Speciality: Shoulder and Injuries", "Gender: Female"],
-        ["Dr. SINHA AVIJAN", "/dr/dr2.jpg", "B.P.Th. M. P. Th.", "Speciality: Ophthalmologist (Eye specialist)", "Gender: Male"],
-        ["Dr. ATHAVALE SMITA R.","/dr/dr5.jpg","BDS MDS(PROSTHODONTIST)","Speciality: Dentistry","Gender: Female"],
-        ["Dr. SURYAVANSHI MIHIR","/dr/dr3.jpg","MBBS MS, DNB, FCPS, DORL","Speciality: Ear,Nose and Throat (ENT)","Gender: Male"],
-        ["Dr. MEENU AGARWAL","/dr/dr6.jpeg","DNB, DGO, MBBS","Speciality: Gynaecologist and Obstetrician","Gender: Female"],
-        ["Dr. BHOWMICK NILANJAN","/dr/dr4.jpg","MBBS MS(ENT)","Speciality: ENT, Vertigo and Balance Clinic","Gender: Male"]
+        ["Dr. BABHULKAR JOBAN", "./dr/dr1.jpg", "MBBS D.M.R.D, D.N.B. (Radio-Diagnosis)", "Speciality: Shoulder and Injuries", "Gender: Female"],
+        ["Dr. SINHA AVIJAN", "./dr/dr2.jpg", "B.P.Th. M. P. Th.", "Speciality: Ophthalmologist (Eye specialist)", "Gender: Male"],
+        ["Dr. ATHAVALE SMITA R.","./dr/dr5.jpg","BDS MDS(PROSTHODONTIST)","Speciality: Dentistry","Gender: Female"],
+        ["Dr. SURYAVANSHI MIHIR","./dr/dr3.jpg","MBBS MS, DNB, FCPS, DORL","Speciality: Ear,Nose and Throat (ENT)","Gender: Male"],
+        ["Dr. MEENU AGARWAL","./dr/dr6.jpeg","DNB, DGO, MBBS","Speciality: Gynaecologist and Obstetrician","Gender: Female"],
+        ["Dr. BHOWMICK NILANJAN","./dr/dr4.jpg","MBBS MS(ENT)","Speciality: ENT, Vertigo and Balance Clinic","Gender: Male"]
 
 
     ]
